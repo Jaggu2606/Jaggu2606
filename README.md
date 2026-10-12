@@ -2,10 +2,10 @@
 <p align="center"><b>AI & Robotics Engineer</b> · Bipedal locomotion · Reinforcement learning · Multi-agent systems</p>
 
 <p align="center">
-  <a href="https://jaggu2606.github.io/Jagan.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-5cc8ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://jaggu2606.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-5cc8ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/jagannath-prasad-sahoo"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:sahoojagannathprasad@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://jaggu2606.github.io/Jagan.github.io/media/Jagannath_Prasad_Sahoo_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-555?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
+  <a href="https://jaggu2606.github.io/media/Jagannath_Prasad_Sahoo_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-555?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
 </p>
 
 ---
@@ -27,7 +27,7 @@
 | Buried power cable tracing | Goal-free obstacle avoidance and GPS mapping from electromagnetic locator feedback |
 | Vision-based UAV tracking | Deep RL policy for a UGV that tracks a UAV in a heterogeneous team |
 
-More projects, videos and publications → **[my portfolio](https://jaggu2606.github.io/Jagan.github.io/)**
+More projects, videos and publications → **[my portfolio](https://jaggu2606.github.io/)**
 
 ### Tech stack
 **Robotics:** ROS · ROS2 · Gazebo · PyBullet · Isaac Gym · MuJoCo · Motion planning · Kinematics & dynamics<br>
@@ -53,4 +53,4 @@ More projects, videos and publications → **[my portfolio](https://jaggu2606.gi
 - **Learning multi-skill locomotion in underactuated biped: a waypoint-based reward shaping approach**, ICC-11 2025
 - **Design, kinematic modeling, and stability verification of a small-scale biped robot**, ICCAS 2025
 
-[Full list on my portfolio →](https://jaggu2606.github.io/Jagan.github.io/#publications)
+[Full list on my portfolio →](https://jaggu2606.github.io/#publications)
