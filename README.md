@@ -12,6 +12,7 @@
 ---
 
 ### About me
+- 🩺 Currently: **Robotics Engineer Intern at AGIHF** (since July 2026), building a surgical scope-holder manipulator
 - 🎓 **M.Tech (Research) in AI and Robotics, IIT Mandi** (2026). Thesis: *Design, Development and Experimental Validation of a Bipedal Robot for Adaptive Locomotion and Navigation*
 - 🤖 I build robots end to end: mechanical design and FEA → dynamic modeling → learning-based control → real-time ROS deployment
 - 🛰️ Previously: Design Engineer at **Dover India** and Project Trainee at **ISRO** (6-DOF spacecraft vibration isolation)
