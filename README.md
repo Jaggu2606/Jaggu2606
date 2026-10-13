@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://jaggu2606.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-5cc8ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/jagannath-prasad-sahoo"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://scholar.google.com/citations?user=o8FPbNMAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="mailto:sahoojagannathprasad@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://jaggu2606.github.io/media/Jagannath_Prasad_Sahoo_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-555?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
 </p>
