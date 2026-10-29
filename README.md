@@ -49,10 +49,12 @@ More projects, videos and publications → **[my portfolio](https://jaggu2606.gi
 </p>
 
 ### Recent publications
+- **Deep reinforcement learning for vision-based UAV tracking by an autonomous ground vehicle**, IEEE ICARCV 2026
+- **Adaptable bipedal locomotion for perturbation recovery and uneven terrain navigation**, IEEE ICARCV 2026
+- **Dual-arm cooperative manipulation through shared vision**, IEEE ICARCV 2026
+- **Autonomous buried power cable tracing using electromagnetic locator feedback, goal-free obstacle avoidance, and GPS mapping**, NEECON 2026
 - **Hardware model-mediated teleoperation for a force-blind low-cost manipulator with a single-scalar contact sensor**, IEEE ICARCV 2026 *(contributed oral)*
 - **Reference-coupled heterogeneous multi-agent coordination with real-time adaptive perimeter field navigation**, IEEE ICARA 2026
 - **TongueSight: AI-powered tongue analysis for digitizing traditional medicine diagnostics**, ICVGIP 2026
-- **Learning multi-skill locomotion in underactuated biped: a waypoint-based reward shaping approach**, ICC-11 2025
-- **Design, kinematic modeling, and stability verification of a small-scale biped robot**, ICCAS 2025
 
 [Full list on my portfolio →](https://jaggu2606.github.io/#publications)
