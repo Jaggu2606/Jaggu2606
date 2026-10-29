@@ -49,7 +49,7 @@ More projects, videos and publications → **[my portfolio](https://jaggu2606.gi
 </p>
 
 ### Recent publications
-- **Deep reinforcement learning for vision-based UAV tracking by an autonomous ground vehicle**, IEEE ICARCV 2026
+- **Deep reinforcement learning for vision-based UAV tracking by an autonomous ground vehicle**, IEEE ICARCV 2026 · [project website](https://microgridx.github.io/UAV-AGV_Collaboration_website/)
 - **Adaptable bipedal locomotion for perturbation recovery and uneven terrain navigation**, IEEE ICARCV 2026
 - **Dual-arm cooperative manipulation through shared vision**, IEEE ICARCV 2026
 - **Autonomous buried power cable tracing using electromagnetic locator feedback, goal-free obstacle avoidance, and GPS mapping**, NEECON 2026
